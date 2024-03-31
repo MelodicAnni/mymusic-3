@@ -271,5 +271,3 @@ document.addEventListener("DOMContentLoaded", btnEvents);
 //============ Calling Load Music
 loadMusic(songs[musicIndex]);
 
-alert("Happy Holi, Anni! 🎉 May the rhythm of this festive occasion bring a symphony of laughter and cheer into your life. May each color that adorns your day represent the beauty of friendship, the melody of love, and the harmony of success. Here's to a joyous celebration filled with unforgettable moments and melodies that resonate in your heart forever! 🌈🎶");
-
