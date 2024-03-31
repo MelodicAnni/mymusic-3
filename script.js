@@ -271,3 +271,9 @@ document.addEventListener("DOMContentLoaded", btnEvents);
 //============ Calling Load Music
 loadMusic(songs[musicIndex]);
 
+setTimeout(function() {
+    // Redirect the user back to the previous website
+    window.history.back();
+}, 10000); // 10000 milliseconds = 10 seconds
+
+
